@@ -26,6 +26,7 @@ Maintainability
 The project uses modular classes, consistent formatting, descriptive naming, and structured comments. Separating display management and state logic improves readability and adaptability.
 
 Project 2: Morse Code State Machine (Milestone3.py)
+
 This project required building a state machine that transmits Morse code messages using LEDs. The red LED represents dots (500 ms) and the blue LED represents dashes (1500 ms), with accurate timing between symbols, letters, and words. A button toggles between “SOS” and “OK” without interrupting the current transmission. A 16x2 LCD provides user feedback.
 
 What I Did Well
